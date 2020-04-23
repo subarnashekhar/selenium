@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc02accf-9db2-4775-a839-9d2e08a24b2c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aeJZYuLnz0oYTNmCpKDIvrTkm0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.techsmart.selenium.pages.enums" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.WithPageObjectPattern.searchJavaCourseWithPageObjectPattern">
+    <configuration name="WithPageObjectPattern.searchJavaCourseWithPageObjectPattern" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-with-fluent-interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.techsmart.selenium.fluentinterfacedemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.techsmart.selenium.fluentinterfacedemo" />
+      <option name="MAIN_CLASS_NAME" value="edu.techsmart.selenium.fluentinterfacedemo.WithPageObjectPattern" />
+      <option name="METHOD_NAME" value="searchJavaCourseWithPageObjectPattern" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WithoutFluentPattern.loadDriver" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-with-fluent-interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.techsmart.selenium.fluentinterfacedemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.techsmart.selenium.fluentinterfacedemo" />
+      <option name="MAIN_CLASS_NAME" value="edu.techsmart.selenium.fluentinterfacedemo.WithoutFluentPattern" />
+      <option name="METHOD_NAME" value="loadDriver" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WithoutFluentPattern.searchJavaCourse" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-with-fluent-interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.techsmart.selenium.fluentinterfacedemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.techsmart.selenium.fluentinterfacedemo" />
+      <option name="MAIN_CLASS_NAME" value="edu.techsmart.selenium.fluentinterfacedemo.WithoutFluentPattern" />
+      <option name="METHOD_NAME" value="searchJavaCourse" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.WithPageObjectPattern.searchJavaCourseWithPageObjectPattern" />
+        <item itemvalue="TestNG.WithoutFluentPattern.searchJavaCourse" />
+        <item itemvalue="TestNG.WithoutFluentPattern.loadDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc02accf-9db2-4775-a839-9d2e08a24b2c" name="Default Changelist" comment="" />
+      <created>1587090182573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587090182573</updated>
+      <workItem from="1587090186529" duration="5355000" />
+      <workItem from="1587233778229" duration="9105000" />
+      <workItem from="1587319888796" duration="3255000" />
+      <workItem from="1587347546220" duration="2073000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1587322576473">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="586" y="209" key="#com.intellij.ide.util.MemberChooser/1680.23.1440.877/0.23.1680.956@0.23.1680.956" timestamp="1587322576473" />
+    <state width="1638" height="255" key="GridCell.Tab.0.bottom" timestamp="1587326195581">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="1638" height="405" key="GridCell.Tab.0.bottom/1680.23.1440.814/0.23.1680.1027@0.23.1680.1027" timestamp="1587236403918" />
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom/1680.23.1440.877/0.23.1680.1027@0.23.1680.1027" timestamp="1587269495144" />
+    <state width="1638" height="255" key="GridCell.Tab.0.bottom/1680.23.1440.877/0.23.1680.956@0.23.1680.956" timestamp="1587326195581" />
+    <state width="1638" height="255" key="GridCell.Tab.0.center" timestamp="1587326195581">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="1638" height="405" key="GridCell.Tab.0.center/1680.23.1440.814/0.23.1680.1027@0.23.1680.1027" timestamp="1587236403917" />
+    <state width="1638" height="257" key="GridCell.Tab.0.center/1680.23.1440.877/0.23.1680.1027@0.23.1680.1027" timestamp="1587269495143" />
+    <state width="1638" height="255" key="GridCell.Tab.0.center/1680.23.1440.877/0.23.1680.956@0.23.1680.956" timestamp="1587326195581" />
+    <state width="1638" height="255" key="GridCell.Tab.0.left" timestamp="1587326195580">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="1638" height="405" key="GridCell.Tab.0.left/1680.23.1440.814/0.23.1680.1027@0.23.1680.1027" timestamp="1587236403916" />
+    <state width="1638" height="257" key="GridCell.Tab.0.left/1680.23.1440.877/0.23.1680.1027@0.23.1680.1027" timestamp="1587269495143" />
+    <state width="1638" height="255" key="GridCell.Tab.0.left/1680.23.1440.877/0.23.1680.956@0.23.1680.956" timestamp="1587326195580" />
+    <state width="1638" height="255" key="GridCell.Tab.0.right" timestamp="1587326195581">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="1638" height="405" key="GridCell.Tab.0.right/1680.23.1440.814/0.23.1680.1027@0.23.1680.1027" timestamp="1587236403917" />
+    <state width="1638" height="257" key="GridCell.Tab.0.right/1680.23.1440.877/0.23.1680.1027@0.23.1680.1027" timestamp="1587269495144" />
+    <state width="1638" height="255" key="GridCell.Tab.0.right/1680.23.1440.877/0.23.1680.956@0.23.1680.956" timestamp="1587326195581" />
+    <state x="296" y="74" key="SettingsEditor" timestamp="1587090312657">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="296" y="74" key="SettingsEditor/1680.23.1440.877/0.23.1680.956@0.23.1680.956" timestamp="1587090312657" />
+    <state x="496" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1587347547579">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="496" y="334" key="com.intellij.ide.util.TipDialog/1680.23.1440.877/0.23.1680.952@0.23.1680.952" timestamp="1587319891218" />
+    <state x="496" y="335" key="com.intellij.ide.util.TipDialog/1680.23.1440.877/0.23.1680.956@0.23.1680.956" timestamp="1587347547579" />
+    <state x="505" y="230" width="670" height="675" key="run.anything.popup" timestamp="1587090373710">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="505" y="230" width="670" height="675" key="run.anything.popup/1680.23.1440.877/0.23.1680.956@0.23.1680.956" timestamp="1587090373710" />
+  </component>
+</project>
